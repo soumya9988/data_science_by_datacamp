@@ -22,7 +22,7 @@ This repositroy contains the solutions to projects from [Data Camp](https://www.
 |Recreating John Snow's Ghost Map |  pandas Foundations, Interactive Data Visualization with Bokeh.|
 
 
-### SQL
+### SQL Projects:
 | Projects       | Recommended Courses | 
 | ------------- |-------------|
 |Analyze International Debt Statistics | Intro to SQL for Data Science.|
