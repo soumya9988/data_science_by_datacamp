@@ -20,7 +20,7 @@ This repositroy contains the solutions to projects from [Data Camp](https://www.
 |A New Era of Data Analysis in Baseball| Intermediate Python for Data Science, Introduction to Data Visualization with Python|
 |Name Game: Gender Prediction using Sound | Intermediate Python for Data Science, Introduction to Data Visualization with Python, pandas Foundations|
 |Recreating John Snow's Ghost Map |  pandas Foundations, Interactive Data Visualization with Bokeh.|
-
+|Predicting Credit Card Approvals | pandas Foundations, Supervised Learning with scikit-learn |
 
 ### SQL Projects:
 | Projects       | Recommended Courses | 
