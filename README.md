@@ -21,6 +21,7 @@ This repositroy contains the solutions to projects from [Data Camp](https://www.
 |Name Game: Gender Prediction using Sound | Intermediate Python for Data Science, Introduction to Data Visualization with Python, pandas Foundations|
 |Recreating John Snow's Ghost Map |  pandas Foundations, Interactive Data Visualization with Bokeh.|
 |Predicting Credit Card Approvals | pandas Foundations, Supervised Learning with scikit-learn |
+|The Android App Market on Google Play| Manipulating DataFrames with pandas, Python Data Science Toolbox (Part 1) |
 
 ### SQL Projects:
 | Projects       | Recommended Courses | 
